@@ -39,7 +39,7 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
-@media(max-width:800px){
+@media(max-width:600px){
   .title{
     font-size: 2rem;
     margin-top:30%;
